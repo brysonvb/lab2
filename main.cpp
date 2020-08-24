@@ -28,3 +28,5 @@ void hello2Function(string name2)
 {
 	cout << "hello World" << name2 << endl;
 }
+
+// test
