@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+// Bryson Bisuna and Parsa Bidram
+// Hello World in C++
+
 int hello1Function(string name1);
 int hello2Function(string name2);
 
