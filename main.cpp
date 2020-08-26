@@ -1,13 +1,8 @@
 #include <iostream>
+#include "helloFunction1.cpp"
+#include "helloFunction2.cpp"
 using namespace std;
 
-// Bryson Bisuna and Parsa Bidram
-// Hello World in C++
-
-int hello1Function(string name1);
-int hello2Function(string name2);
-
-// Authors: Bryson Bisuna and Parsa Bidram
 // Description: Hello World in C++
 
 int main()
@@ -18,18 +13,3 @@ int main()
 	hello2Function(name2);
 	return 0;
 }
-
-void hello1Function(string name1)
-{
-	cout << "hello World" << name1 << endl;
-}
-
-void hello2Function(string name2)
-{
-	cout << "hello World" << name2 << endl;
-}
-
-// test
-// test 2
-// test 3
-// hello github
