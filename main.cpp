@@ -16,11 +16,6 @@ int main()
 	return 0;
 }
 
-void hello1Function(string name1)
-{
-	cout << "hello World" << name1 << endl;
-}
-
 void hello2Function(string name2)
 {
 	cout << "hello World" << name2 << endl;
